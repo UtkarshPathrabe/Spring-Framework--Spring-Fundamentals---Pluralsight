@@ -70,3 +70,45 @@ B. slowest
 C. correct  
 D. first  
 Answer: first  
+
+Q11. Bean definitions in XML configurations are usually aided with which technique/tool?  
+A. Maven  
+B. IoC  
+C. Namespaces  
+D. IDE  
+Answer: Namespaces  
+
+Q12. Autowiring is by default what type?  
+A. By Name  
+B. Constructor  
+C. By Type  
+D. None  
+Answer: By Type  
+
+Q13. Beans by default are what scope?  
+A. Session  
+B. Prototype  
+C. Singleton  
+D. Request  
+Answer: Singleton  
+
+Q14. What are the web scopes?  
+A. Singleton, Factory, Application  
+B. Page, Request, Application  
+C. Request, Session, GlobalSession  
+D. Service, Repository, Controller  
+Answer: Request, Session, GlobalSession  
+
+Q15. Setter injection requires what type of constructor to be in place?  
+A. no-args  
+B. indexed  
+C. initMethod  
+D. named  
+Answer: no-args  
+
+Q16. Bean profiles are a great solution to working with what problem?  
+A. Legacy code  
+B. Different runtime configurations  
+C. Unit tests  
+D. Continuous deployment  
+Answer: Different runtime configurations  
