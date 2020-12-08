@@ -112,3 +112,10 @@ B. Different runtime configurations
 C. Unit tests  
 D. Continuous deployment  
 Answer: Different runtime configurations  
+
+Q17. What is the most common step that you hook into for the Bean Lifecycle?  
+A. factoryMehtod  
+B. onConstruct  
+C. initMethod  
+D. preDestroy  
+Answer: initMethod  
